@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Saumya Pratik
+#  Hi, I'm Saumya Pratik
 
 🎓 B.Tech CSE (AIML) Student at VIT Bhopal
+
 📍 From Muzaffarpur, Bihar
 
 ---
