@@ -8,7 +8,7 @@
 
 ## 🎥 My Self Introduction
 
-👉 [Watch my introduction video](PASTE_YOUR_VIDEO_LINK_HERE)
+👉 [Watch my introduction video][(PASTE_YOUR_VIDEO_LINK_HERE)](https://github.com/saumyapratik/Self-Introduction/blob/main/self%20introduction%20.mp4)
 
 ---
 
